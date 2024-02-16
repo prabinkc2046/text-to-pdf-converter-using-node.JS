@@ -1,0 +1,14 @@
+{
+  "name": "text-to-pdf-generator",
+  "version": "1.0.0",
+  "description": "simply convert text to pdf",
+  "main": "convertToPDF.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "pdfkit": "^0.14.0"
+  }
+}
